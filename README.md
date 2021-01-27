@@ -1,4 +1,4 @@
-# 2pay
+# Vue-Spa
 
 ## Project setup
 ```
